@@ -1,5 +1,5 @@
 # bundler-test-dummy
 
-```ruby
+```bash
 ruby dummy.rb
 ```
